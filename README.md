@@ -1,4 +1,4 @@
-# 🔭 Are We Alone in Space? — NASA Exoplanet Analysis
+# 🔭 Are We Alone in Space? NASA Exoplanet Analysis
 
 An exploratory data analysis project using real data from NASA's Exoplanet Archive to investigate relationships between planetary characteristics and patterns in exoplanet discoveries.
 
