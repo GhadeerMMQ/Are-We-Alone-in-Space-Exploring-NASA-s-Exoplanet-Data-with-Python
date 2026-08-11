@@ -83,6 +83,18 @@ A histogram was used to examine the distribution of planet radii.
 ### Discovery Methods
 
 A horizontal bar chart was used to compare the most common exoplanet discovery methods.
+#### Exoplanet Detection Methods include
+
+* **Transit Photometry:** Detects periodic dips in a star’s brightness as a planet passes in front of it. It is highly sensitive to small, close-orbiting planets and can determine their size and density. Used by missions such as Kepler, TESS, and CHEOPS.
+
+* **Radial Velocity:** Detects the gravitational wobble a planet induces in its host star through Doppler shifts in the star’s spectrum. It is particularly effective for detecting massive, close-orbiting planets and led to the discovery of 51 Pegasi b in 1995.
+
+* **Imaging:*** Uses advanced telescopes and instruments to capture light from exoplanets and their surrounding systems. It can reveal planets by detecting their emitted or reflected light, particularly for large, young, and distant planets whose light can be separated from their host star.
+
+* **Timing Variations:** Detects gravitational interactions between planets by measuring changes in predictable events, such as planetary transits, stellar eclipses, or stellar pulses. These variations can reveal otherwise unseen planets.
+
+* **Orbital Brightness Modulation:** Detects periodic changes in a star system’s brightness caused by a planet’s orbit, including reflected light, thermal emission, and relativistic beaming. Unlike transit photometry, the planet does not need to pass in front of its star.
+* 
 <img width="1031" height="547" alt="top 10 discovery methods" src="https://github.com/user-attachments/assets/25a6ee3f-b34a-40ee-ad0a-1567e6828b72" />
 
 
