@@ -77,22 +77,27 @@ The project includes several visualizations designed to explore the dataset from
 ### Planet Radius Distribution
 
 A histogram was used to examine the distribution of planet radii.
+![Planet Radius Distribution](images/planet-radius-distribution.png)
 
 ### Discovery Methods
 
 A horizontal bar chart was used to compare the most common exoplanet discovery methods.
+![Planet Radius Distribution](images/top 10 discovery methods.png)
 
 ### Radius vs. Mass
 
 An interactive scatter plot was created to explore the relationship between planetary radius and mass.
+![Planet Radius Distribution](images/planet-radius-distribution.png)
 
 ### Orbital Periods
 
 An interactive boxplot was used to examine the distribution of orbital periods and identify potential outliers.
+![Planet Radius Distribution](images/planet-radius-distribution.png)
 
 ### Radius vs. Discovery Year
 
 An interactive scatter plot was used to investigate how planet radius varies across discovery years.
+![Planet Radius Distribution](images/planet-radius-distribution.png)
 
 ### Correlation Matrix
 
@@ -101,10 +106,12 @@ A correlation matrix was created to examine relationships between:
 * Planet radius
 * Planet mass
 * Orbital period
+![Planet Radius Distribution](images/planet-radius-distribution.png)
 
 ### Planet Radius Statistics Over Time
 
 Mean and median planet radius were calculated for each discovery year and visualized using interactive line plots.
+![Planet Radius Distribution](images/planet-radius-distribution.png)
 
 ### 3D Planetary Characteristics
 
