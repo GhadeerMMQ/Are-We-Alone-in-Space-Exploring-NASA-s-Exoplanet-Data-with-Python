@@ -94,7 +94,7 @@ A horizontal bar chart was used to compare the most common exoplanet discovery m
 * **Timing Variations:** Detects gravitational interactions between planets by measuring changes in predictable events, such as planetary transits, stellar eclipses, or stellar pulses. These variations can reveal otherwise unseen planets.
 
 * **Orbital Brightness Modulation:** Detects periodic changes in a star system’s brightness caused by a planet’s orbit, including reflected light, thermal emission, and relativistic beaming. Unlike transit photometry, the planet does not need to pass in front of its star.
-* 
+ 
 <img width="1031" height="547" alt="top 10 discovery methods" src="https://github.com/user-attachments/assets/25a6ee3f-b34a-40ee-ad0a-1567e6828b72" />
 
 
