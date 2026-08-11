@@ -1,4 +1,4 @@
-<img width="800" height="517" alt="3D plot of planet characteristics by discovery method" src="https://github.com/user-attachments/assets/813970aa-03be-4761-b547-a91bffb3e8f2" /># 🔭 Are We Alone in Space? NASA Exoplanet Analysis
+🔭 Are We Alone in Space? NASA Exoplanet Analysis
 
 An exploratory data analysis project using real data from NASA's Exoplanet Archive to investigate relationships between planetary characteristics and patterns in exoplanet discoveries.
 
