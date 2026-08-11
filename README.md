@@ -1,4 +1,4 @@
-# 🔭 Are We Alone in Space? NASA Exoplanet Analysis
+<img width="800" height="517" alt="3D plot of planet characteristics by discovery method" src="https://github.com/user-attachments/assets/813970aa-03be-4761-b547-a91bffb3e8f2" /># 🔭 Are We Alone in Space? NASA Exoplanet Analysis
 
 An exploratory data analysis project using real data from NASA's Exoplanet Archive to investigate relationships between planetary characteristics and patterns in exoplanet discoveries.
 
@@ -77,27 +77,32 @@ The project includes several visualizations designed to explore the dataset from
 ### Planet Radius Distribution
 
 A histogram was used to examine the distribution of planet radii.
-![Planet Radius Distribution](images/planet-radius-distribution.png)
+<img width="695" height="475" alt="histogram of planet radii" src="https://github.com/user-attachments/assets/fcf047ec-c6b7-4a47-abd3-a8af8ecae0db" />
+
 
 ### Discovery Methods
 
 A horizontal bar chart was used to compare the most common exoplanet discovery methods.
-![Planet Radius Distribution](images/top 10 discovery methods.png)
+<img width="1031" height="547" alt="top 10 discovery methods" src="https://github.com/user-attachments/assets/25a6ee3f-b34a-40ee-ad0a-1567e6828b72" />
+
 
 ### Radius vs. Mass
 
 An interactive scatter plot was created to explore the relationship between planetary radius and mass.
-![Planet Radius Distribution](images/planet-radius-distribution.png)
+<img width="1400" height="1000" alt="planet radius vs  planet mass" src="https://github.com/user-attachments/assets/1db85db2-b968-43f5-be2c-f089a6d975be" />
+
 
 ### Orbital Periods
 
 An interactive boxplot was used to examine the distribution of orbital periods and identify potential outliers.
-![Planet Radius Distribution](images/planet-radius-distribution.png)
+<img width="1400" height="600" alt="distribution of exoplanet orbital periods" src="https://github.com/user-attachments/assets/44b66d97-ad45-46be-a36a-fa0c6af5f5c1" />
+
 
 ### Radius vs. Discovery Year
 
 An interactive scatter plot was used to investigate how planet radius varies across discovery years.
-![Planet Radius Distribution](images/planet-radius-distribution.png)
+
+<img width="1400" height="600" alt="planet radius vs  discovery year" src="https://github.com/user-attachments/assets/f5635906-49b5-4574-80b4-cbde95e3b380" />
 
 ### Correlation Matrix
 
@@ -106,12 +111,14 @@ A correlation matrix was created to examine relationships between:
 * Planet radius
 * Planet mass
 * Orbital period
-![Planet Radius Distribution](images/planet-radius-distribution.png)
+<img width="1094" height="754" alt="correlation matrix of numeric veriables" src="https://github.com/user-attachments/assets/96de307f-556b-40cc-a29f-bd5398db6aa1" />
+
 
 ### Planet Radius Statistics Over Time
 
 Mean and median planet radius were calculated for each discovery year and visualized using interactive line plots.
-![Planet Radius Distribution](images/planet-radius-distribution.png)
+
+<img width="1400" height="600" alt="planet radius statistics over discovery years" src="https://github.com/user-attachments/assets/4b46cc78-d4a9-4812-a012-c15f1024c9cb" />
 
 ### 3D Planetary Characteristics
 
@@ -123,7 +130,9 @@ A 3D interactive scatter plot was created using Plotly to simultaneously explore
 
 The points are colored by discovery method, with logarithmic scales used across the three axes to handle the wide range of values.
 
-![3D Exoplanet Visualization](images/3d-visualization.gif)
+<img width="800" height="517" alt="3D plot of planet characteristics by discovery method" src="https://github.com/user-attachments/assets/3b89e969-81eb-4de1-8de8-c06e67c27fd3" />
+
+
 
 ## 🌟 Key Findings
 
