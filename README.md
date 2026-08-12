@@ -193,7 +193,7 @@ This project provided hands-on practice with:
 * Building an interactive 3D visualization
 
 ## 📁 Project Structure
-
+```
 NASA-exoplanet-analysis/
 │
 ├── NASA Exoplanets Analysis.ipynb
@@ -210,7 +210,7 @@ NASA-exoplanet-analysis/
     ├── planet-radius-statistics.png
     ├── radius-vs-discovery-year.png
     └── radius-vs-mass.png
-
+```
 ## 🚀 How to Run
 
 1. Clone this repository.
