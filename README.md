@@ -194,15 +194,23 @@ This project provided hands-on practice with:
 
 ## 📁 Project Structure
 
-```text
 NASA-exoplanet-analysis/
 │
 ├── NASA Exoplanets Analysis.ipynb
 ├── README.md
 │
+├── data/
+│   └── udacity_exoplanet.csv
+│
 └── images/
-    └── 3d-visualization.gif
-```
+    ├── 3D plot of planet characteristics by discovery method.gif
+    ├── correlation matrix of numeric veriables.png
+    ├── distribution of exoplanet orbital periods.png
+    ├── histogram of planet radii.png
+    ├── planet radius statistics over discovery years.png
+    ├── planet radius vs. discovery year.png
+    └── planet radius vs. planet mass.png
+    
 
 ## 🚀 How to Run
 
