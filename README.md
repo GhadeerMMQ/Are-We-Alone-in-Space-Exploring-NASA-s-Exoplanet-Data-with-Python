@@ -205,6 +205,7 @@ NASA-exoplanet-analysis/
 └── images/
     ├── 3d-planet-characteristics.gif
     ├── correlation-matrix.png
+    ├── discovery-methods.png
     ├── orbital-period-distribution.png
     ├── planet-radius-distribution.png
     ├── planet-radius-statistics.png
