@@ -203,14 +203,13 @@ NASA-exoplanet-analysis/
 │   └── udacity_exoplanet.csv
 │
 └── images/
-    ├── 3D plot of planet characteristics by discovery method.gif
-    ├── correlation matrix of numeric veriables.png
-    ├── distribution of exoplanet orbital periods.png
-    ├── histogram of planet radii.png
-    ├── planet radius statistics over discovery years.png
-    ├── planet radius vs. discovery year.png
-    └── planet radius vs. planet mass.png
-    
+    ├── 3d-planet-characteristics.gif
+    ├── correlation-matrix.png
+    ├── orbital-period-distribution.png
+    ├── planet-radius-distribution.png
+    ├── planet-radius-statistics.png
+    ├── radius-vs-discovery-year.png
+    └── radius-vs-mass.png
 
 ## 🚀 How to Run
 
